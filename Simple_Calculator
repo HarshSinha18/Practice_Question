@@ -9,8 +9,9 @@ int sum=0;
 int mul = 1;
 int sub= 0;
 int option;
-for (int c= 0 ; c<= 20000 ; c++){
 System.out.println("Harsh Sinha's Calculator");
+System.out.println("");
+for (int c= 1 ; c<= 20000 ; c++){
 System.out.println("Press 1. for Addition");
 System.out.println("Press 2. for Multiplication");
 System.out.println("Press 3. for Substraction");
