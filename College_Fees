@@ -1,7 +1,7 @@
 class c_fees{
 String clg_name;
 double clg_fees;
-c_fees(){ //Default Contructor //
+c_fees(){ //Default Constructor //
 }
 }
 public class constructor {
